@@ -1,76 +1,172 @@
+<!--
+  Fun-but-professional GitHub Profile README for Oxidaner
+  Put this README.md in your profile repo: github.com/Oxidaner/Oxidaner
+  Also commit assets/github-hero.svg so the banner can render correctly.
+-->
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1020,55:1E293B,100:2563EB&text=Oxidaner&fontAlign=50&fontAlignY=38&fontColor=F8FAFC&fontSize=56&desc=Engineering%20Systems%20%7C%20Developer%20Tools%20%7C%20Pragmatic%20Automation&descAlign=50&descAlignY=62&descSize=15" alt="Oxidaner profile banner" width="100%" />
+  <img src="./assets/github-hero.svg" alt="Oxidaner profile hero" width="100%" />
 
-  <a href="https://github.com/Oxidaner">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+reliable+software+with+clean+architecture.;Automating+engineering+workflows+that+scale.;Shipping+practical+tools+with+a+systems+mindset." alt="Typing SVG" />
-  </a>
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=Building+backend+systems+that+survive+real+traffic.;Automating+boring+engineering+workflows.;Turning+messy+logs+into+useful+signals.;Writing+tools+I+wish+already+existed." alt="Typing SVG" />
+
+  <br />
+
+  <a href="https://github.com/Oxidaner"><img src="https://komarev.com/ghpvc/?username=Oxidaner&style=for-the-badge&color=0ea5e9&label=PROFILE+VISITS" alt="profile views" /></a>
+  <img src="https://img.shields.io/badge/Status-Shipping-0B1020?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="status" />
+  <img src="https://img.shields.io/badge/Mood-Debugging%20Reality-0B1020?style=for-the-badge&logo=gnometerminal&logoColor=22C55E" alt="mood" />
 
 </div>
 
-## About
+---
 
-I build software with a focus on reliability, clarity, and long-term maintainability.
+## 👾 About me
 
-My work leans toward engineering systems: backend services, developer tooling, automation workflows, and practical AI-assisted development. I care about products that are simple to operate, easy to evolve, and grounded in real-world constraints.
+I like building **reliable backend systems**, **developer tools**, and **AI-assisted workflows** that make engineering work less repetitive.
 
-## Focus
+My favorite kind of project is the one that starts with a small annoying problem, becomes a useful tool, and eventually teaches me something about systems, trade-offs, and people.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Engineering</h3>
-      <ul>
-        <li>Backend and service architecture</li>
-        <li>Clean interfaces and maintainable codebases</li>
-        <li>Automation for repetitive engineering work</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Current Direction</h3>
-      <ul>
-        <li>AI-native development workflows</li>
-        <li>Developer experience and internal tools</li>
-        <li>Cloud-native and scalable application design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Go-0B1020?style=for-the-badge&logo=go&logoColor=38BDF8" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=FBBF24" alt="Python" />
-  <img src="https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0B1020?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=60A5FA" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-0B1020?style=for-the-badge&logo=linux&logoColor=E5E7EB" alt="Linux" />
-</p>
-
-## GitHub Metrics
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Oxidaner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B1020&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="Oxidaner GitHub stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxidaner&layout=compact&theme=github_dark&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1&langs_count=10" alt="Oxidaner top languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oxidaner&theme=react-dark&bg_color=0B1020&hide_border=true&line=38BDF8&point=FFFFFF&color=CBD5E1&title_color=38BDF8&area=true&custom_title=Contribution%20Graph" alt="Oxidaner contribution graph" width="100%" />
-
-## Principles
-
-```text
-Design for clarity.
-Automate what repeats.
-Keep interfaces small.
-Make systems observable.
-Ship, measure, and refine.
+```txt
+> profile.scan()
+role        = backend / tooling / AI workflow builder
+style       = practical, maintainable, observable
+weakness    = "just one more refactor"
+superpower  = turning chaos into checklists
 ```
+
+---
+
+## 🕹️ Engineering RPG
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧭 Main Quest</h3>
+      <ul>
+        <li>Build services that are clear, stable, and easy to operate.</li>
+        <li>Design small interfaces instead of giant magical abstractions.</li>
+        <li>Use automation to remove repeatable engineering pain.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>⚔️ Current Boss Fights</h3>
+      <ul>
+        <li>Backend architecture under real-world constraints.</li>
+        <li>AI-native development workflows.</li>
+        <li>Observability, reliability, and debugging messy systems.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧪 Side Quests</h3>
+      <ul>
+        <li>Open-source exploration in Go ecosystems.</li>
+        <li>Developer experience and internal tools.</li>
+        <li>Prompting, RAG, agents, and LLM application patterns.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🏆 Loot I Care About</h3>
+      <ul>
+        <li>Readable code.</li>
+        <li>Small abstractions.</li>
+        <li>Useful logs and metrics.</li>
+        <li>Systems that fail loudly and recover gracefully.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Toolbox
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=go,java,python,ts,js&theme=dark" alt="languages" />
+
+### Backend / Infra
+<img src="https://skillicons.dev/icons?i=spring,nodejs,redis,mysql,postgres,docker,kubernetes,linux,nginx&theme=dark" alt="backend infra" />
+
+### Frontend / Tools
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,git,github,md&theme=dark" alt="frontend tools" />
+
+</div>
+
+---
+
+## 🧩 What I enjoy building
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🤖 AI Workflows</h3>
+      <p>Agents, RAG, prompt pipelines, evaluation loops, and practical automation.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>⚙️ Backend Systems</h3>
+      <p>APIs, service architecture, caching, rate limiting, reliability, and observability.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🛠️ Developer Tools</h3>
+      <p>Small tools that make debugging, reviewing, and shipping software less painful.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub telemetry
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Oxidaner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="Oxidaner GitHub stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxidaner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1&langs_count=10" alt="Oxidaner top languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oxidaner&theme=tokyo-night&bg_color=0B1020&hide_border=true&line=38BDF8&point=FFFFFF&color=CBD5E1&title_color=38BDF8&area=true&custom_title=Contribution%20Signal" alt="Oxidaner contribution graph" width="100%" />
+
+---
+
+## 🐍 Contribution snake
+
+<!--
+  This image needs a GitHub Action to generate it.
+  I included .github/workflows/snake.yml in the zip.
+  After you commit it, wait for the workflow to run, then this snake will appear.
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oxidaner/Oxidaner/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oxidaner/Oxidaner/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Oxidaner/Oxidaner/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 🧠 Operating principles
+
+```txt
+clarity       > cleverness
+boring tools  > fragile magic
+small APIs    > giant abstractions
+logs + metrics > guessing in production
+ship → measure → learn → refine
+```
+
+<div align="center">
+
+### “Make it work. Make it clear. Then make it boring.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1020,55:1E293B,100:2563EB" alt="footer" width="100%" />
+
+</div>
