@@ -125,10 +125,10 @@ superpower  = turning chaos into checklists
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Oxidaner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="Oxidaner GitHub stats" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=Oxidaner&theme=tokyonight&hide_border=true&background=0B1020&ring=38BDF8&fire=38BDF8&currStreakLabel=CBD5E1" alt="Oxidaner GitHub streak" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxidaner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1&langs_count=10" alt="Oxidaner top languages" width="100%" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Oxidaner&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="Oxidaner GitHub trophies" width="100%" />
     </td>
   </tr>
 </table>
